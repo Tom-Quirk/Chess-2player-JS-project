@@ -20,3 +20,5 @@ function createBoard() {
     })
 
 }
+
+//15.30 into "code CHESS in Javascript (Super simple!)" tutorial. Continue later
